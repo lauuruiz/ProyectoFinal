@@ -1,0 +1,2 @@
+include ':app', ':myitemselector'
+rootProject.name='POSIZV1920'

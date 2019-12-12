@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/categories">
+        <menu>
+            <item
+                android:id="@+id/nav_drinks"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/cat_drinks" />
+            <item
+                android:id="@+id/nav_salads"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/cat_salads" />
+            <item
+                android:id="@+id/nav_frisbees"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/cat_frisbees" />
+            <item
+                android:id="@+id/nav_rolls"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/cat_rolls" />
+            <item
+                android:id="@+id/nav_kebabs"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/cat_kebabs" />
+            <item
+                android:id="@+id/nav_burgers"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/cat_burgers" />
+            <item
+                android:id="@+id/nav_temptations"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/cat_temptations" />
+        </menu>
+    </item>
+</menu>
